@@ -1,3 +1,7 @@
+<a href="https://github.com/amrheing/thermostat_reset_offset/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/amrheing/thermostat_reset_offset"></a>
+<a href="https://github.com/amrheing/thermostat_reset_offset/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/amrheing/thermostat_reset_offset"></a>
+<a href="https://github.com/amrheing/thermostat_reset_offset/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/amrheing/thermostat_reset_offset"></a>
+
 # thermostat_reset_offset
 Resets the Thermostat offset in Problems
 
