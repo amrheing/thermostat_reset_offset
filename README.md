@@ -24,3 +24,13 @@ in behavior of the need for set_offset script there will also set the temp data 
       current_offset: input_number.sz_current_offset_rechts
   mode: single
   ```
+
+In the code you can change the zwave ackend now:
+
+```yaml
+# What zwave implementation is working?
+# the "Old" one: "zwave"
+# the newer OZW implementation beta: "ozw"
+#ZWAVE_SERVICE = "zwave"
+ZWAVE_SERVICE = "ozw"
+```
